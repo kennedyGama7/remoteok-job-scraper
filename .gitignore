@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.xlsx
+*.log
+~$*.xlsx
+
+output/
+logs/
+.vscode/
+
+.venv/
+venv/
