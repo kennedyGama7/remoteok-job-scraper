@@ -1,7 +1,6 @@
 import logging
 from pathlib import Path
 
-# Cria a pasta de logs caso ela não exista
 Path("logs").mkdir(exist_ok=True)
 
 logging.basicConfig(
